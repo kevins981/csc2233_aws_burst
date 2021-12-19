@@ -1,0 +1,12 @@
+Start
+Using up all credits first.
+Connecting to host 172.31.24.202, port 5201
+[  5] local 172.31.16.48 port 57884 connected to 172.31.24.202 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-2.39   sec   749 MBytes  2.63 Gbits/sec    0   1.75 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-2.39   sec   749 MBytes  2.63 Gbits/sec    0             sender
+[  5]   0.00-2.39   sec  0.00 Bytes  0.00 bits/sec                  receiver
+=============================================
+Strategy 1: transmit as much as we can

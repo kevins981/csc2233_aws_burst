@@ -1,29 +1,35 @@
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 > credit_restore_exp
+#!/bin/bash
+LOGNAME="credit_restore_xin"
+HOST_ADDR="172.31.24.202"
+echo "Start"  > $LOGNAME
 
-echo "SLEEPING FOR 50s"  >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
+
+echo "SLEEPING FOR 50s"  >> $LOGNAME
 sleep 50
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 100s"  >> credit_restore_exp
+echo "SLEEPING FOR 100s"  >> $LOGNAME
 sleep 100
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 150s"  >> credit_restore_exp
+echo "SLEEPING FOR 150s"  >> $LOGNAME
 sleep 150
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 200"  >> credit_restore_exp
+echo "SLEEPING FOR 200"  >> $LOGNAM$LOGNAME
 sleep 200
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 300s"  >> credit_restore_exp
+echo "SLEEPING FOR 300s"  >> $LOGNAME
 sleep 300
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 600s"  >> credit_restore_exp
+echo "SLEEPING FOR 600s"  >> $LOGNAME
 sleep 600
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
 
-echo "SLEEPING FOR 1000s"  >> credit_restore_exp
+echo "SLEEPING FOR 1000s"  >> $LOGNAME
 sleep 1000
-iperf3 -c 172.31.41.182 -i 0.1 -t 400 >> credit_restore_exp
+iperf3 -c $HOST_ADDR -i 0.1 -t 100 >> $LOGNAME
+
