@@ -1,0 +1,2312 @@
+Start
+!!!!!!!
+Using up all credits to prepare for strategy.
+make sure all tokens are drained first
+Listening on eth0
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>      411Mb      411Mb      411Mb      103MB
+     ip-172-31-24-202.ec2.internal            <=     1.39Mb     1.39Mb     1.39Mb      355KB
+   2 ip-172-31-16-48.ec2.internal             =>     25.5Kb     25.5Kb     25.5Kb     6.38KB
+     sb-gw13.cs.toronto.edu                   <=     5.08Kb     5.08Kb     5.08Kb     1.27KB
+   3 ip-172-31-16-48.ec2.internal             =>     1.11Kb     1.11Kb     1.11Kb       283B
+     ip-172-31-0-2.ec2.internal               <=     1.73Kb     1.73Kb     1.73Kb       444B
+--------------------------------------------------------------------------------------------
+Total send rate:                                      411Mb      411Mb      411Mb
+Total receive rate:                                  1.39Mb     1.39Mb     1.39Mb
+Total send and receive rate:                          413Mb      413Mb      413Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     103MB      357KB      103MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     66.8Mb      239Mb      239Mb      119MB
+     ip-172-31-24-202.ec2.internal            <=      377Kb      898Kb      898Kb      449KB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     12.8Kb     12.8Kb     6.38KB
+     sb-gw13.cs.toronto.edu                   <=         0b     2.54Kb     2.54Kb     1.27KB
+   3 ip-172-31-16-48.ec2.internal             =>       296b       714b       714b       357B
+     ip-172-31-0-2.ec2.internal               <=       532b     1.13Kb     1.13Kb       577B
+   4 ip-172-31-16-48.ec2.internal             =>       304b       152b       152b        76B
+     169.254.169.123                          <=       304b       152b       152b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     66.8Mb      239Mb      239Mb
+Total receive rate:                                   378Kb      902Kb      902Kb
+Total send and receive rate:                         67.1Mb      240Mb      240Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     120MB      451KB      120MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.0Mb      180Mb      180Mb      135MB
+     ip-172-31-24-202.ec2.internal            <=      347Kb      715Kb      715Kb      536KB
+   2 ip-172-31-16-48.ec2.internal             =>     5.59Kb     10.4Kb     10.4Kb     7.77KB
+     sb-gw13.cs.toronto.edu                   <=     0.98Kb     2.02Kb     2.02Kb     1.52KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       476b       476b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b       769b       769b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b       101b       101b        76B
+     169.254.169.123                          <=         0b       101b       101b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.0Mb      180Mb      180Mb
+Total receive rate:                                   348Kb      717Kb      717Kb
+Total send and receive rate:                         62.3Mb      181Mb      181Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     135MB      538KB      136MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb      150Mb      150Mb      150MB
+     ip-172-31-24-202.ec2.internal            <=      317Kb      615Kb      615Kb      615KB
+   2 ip-172-31-16-48.ec2.internal             =>     7.78Kb     9.72Kb     9.72Kb     9.72KB
+     sb-gw13.cs.toronto.edu                   <=     1.91Kb     1.99Kb     1.99Kb     1.99KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       357b       357b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b       577b       577b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        76b        76b        76B
+     169.254.169.123                          <=         0b        76b        76b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb      150Mb      150Mb
+Total receive rate:                                   319Kb      618Kb      618Kb
+Total send and receive rate:                         61.6Mb      151Mb      151Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     150MB      618KB      151MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb      132Mb      132Mb      165MB
+     ip-172-31-24-202.ec2.internal            <=      333Kb      559Kb      559Kb      699KB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.78Kb     7.78Kb     9.72KB
+     sb-gw13.cs.toronto.edu                   <=       208b     1.63Kb     1.63Kb     2.04KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       286b       286b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b       462b       462b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        61b        76B
+     169.254.169.123                          <=         0b        61b        61b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb      132Mb      132Mb
+Total receive rate:                                   334Kb      561Kb      561Kb
+Total send and receive rate:                         60.9Mb      133Mb      133Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     165MB      701KB      166MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.0Mb     62.5Mb      121Mb      181MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      343Kb      523Kb      784KB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     2.86Kb     6.63Kb     9.95KB
+     sb-gw13.cs.toronto.edu                   <=       208b       675b     1.40Kb     2.09KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        59b       238b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b       106b       385b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        51b        76B
+     169.254.169.123                          <=         0b        61b        51b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.0Mb     62.5Mb      121Mb
+Total receive rate:                                   342Kb      344Kb      524Kb
+Total send and receive rate:                         62.3Mb     62.9Mb      121Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     181MB      787KB      182MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.4Mb      112Mb      196MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      335Kb      496Kb      868KB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     6.27Kb     8.12Kb     14.2KB
+     sb-gw13.cs.toronto.edu                   <=       624b       800b     1.28Kb     2.25KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       204b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       330b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        43b        76B
+     169.254.169.123                          <=         0b         0b        43b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.4Mb      112Mb
+Total receive rate:                                   338Kb      336Kb      498Kb
+Total send and receive rate:                         61.4Mb     61.7Mb      113Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     196MB      871KB      197MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     61.1Mb      106Mb      211MB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      334Kb      477Kb      953KB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     5.15Kb     7.11Kb     14.2KB
+     sb-gw13.cs.toronto.edu                   <=         0b       598b     1.12Kb     2.25KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       178b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       288b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        38b        76B
+     169.254.169.123                          <=         0b         0b        38b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     61.1Mb      106Mb
+Total receive rate:                                   340Kb      335Kb      478Kb
+Total send and receive rate:                         61.0Mb     61.5Mb      106Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     211MB      956KB      212MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.2Mb     61.1Mb      101Mb      227MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      339Kb      462Kb     1.01MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.3Kb     7.06Kb     8.24Kb     18.5KB
+     sb-gw13.cs.toronto.edu                   <=       624b       333b     1.07Kb     2.40KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       159b       357B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       256b       577B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        34b        76B
+     169.254.169.123                          <=         0b         0b        34b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.2Mb     61.1Mb      101Mb
+Total receive rate:                                   341Kb      339Kb      463Kb
+Total send and receive rate:                         61.5Mb     61.4Mb      101Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     227MB     1.02MB      228MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.3Mb     61.0Mb     96.7Mb      242MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      340Kb      449Kb     1.10MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.06Kb     7.42Kb     18.5KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       982b     2.40KB
+   3 ip-172-31-16-48.ec2.internal             =>       292b        58b       172b       430B
+     ip-172-31-0-2.ec2.internal               <=       416b        83b       272b       681B
+   4 ip-172-31-16-48.ec2.internal             =>       304b        61b        61b       152B
+     169.254.169.123                          <=       304b        61b        61b       152B
+   5 ip-172-31-16-48.ec2.internal             =>       176b        35b        18b        44B
+     meshlv02.oxds.org                        <=       336b        67b        34b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     61.1Mb     96.7Mb
+Total receive rate:                                   339Kb      340Kb      451Kb
+Total send and receive rate:                         60.7Mb     61.4Mb     97.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     242MB     1.10MB      243MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.5Mb     61.0Mb     93.5Mb      257MB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      340Kb      440Kb     1.18MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.06Kb     6.83Kb     18.8KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       912b     2.45KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        58b       156b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b        83b       248b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        55b       152B
+     169.254.169.123                          <=         0b        61b        55b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        35b        16b        44B
+     meshlv02.oxds.org                        <=         0b        67b        31b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.5Mb     61.0Mb     93.5Mb
+Total receive rate:                                   342Kb      340Kb      441Kb
+Total send and receive rate:                         61.9Mb     61.3Mb     94.0Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     257MB     1.18MB      258MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     60.8Mb     90.8Mb      272MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      340Kb      431Kb     1.26MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.3Kb     7.10Kb     7.70Kb     23.1KB
+     sb-gw13.cs.toronto.edu                   <=       976b       362b       917b     2.69KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        58b       143b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b        83b       227b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        51b       152B
+     169.254.169.123                          <=         0b        61b        51b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        35b        15b        44B
+     meshlv02.oxds.org                        <=         0b        67b        28b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     60.9Mb     90.8Mb
+Total receive rate:                                   340Kb      341Kb      432Kb
+Total send and receive rate:                         60.9Mb     61.2Mb     91.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     272MB     1.27MB      274MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.8Mb     88.4Mb      287MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      339Kb      424Kb     1.34MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.10Kb     7.10Kb     23.1KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       847b     2.69KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        58b       132b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b        83b       210b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        47b       152B
+     169.254.169.123                          <=         0b        61b        47b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        35b        14b        44B
+     meshlv02.oxds.org                        <=         0b        67b        26b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.8Mb     88.5Mb
+Total receive rate:                                   335Kb      340Kb      425Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     88.9Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     287MB     1.35MB      289MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.5Mb     60.9Mb     86.5Mb      303MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      339Kb      418Kb     1.43MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.05Kb     7.82Kb     27.4KB
+     sb-gw13.cs.toronto.edu                   <=       416b       320b       816b     2.79KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        58b       123b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b        83b       195b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        43b       152B
+     169.254.169.123                          <=         0b        61b        43b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        35b        13b        44B
+     meshlv02.oxds.org                        <=         0b        67b        24b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.5Mb     60.9Mb     86.5Mb
+Total receive rate:                                   339Kb      339Kb      419Kb
+Total send and receive rate:                         61.8Mb     61.2Mb     86.9Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     303MB     1.43MB      304MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.0Mb     61.0Mb     84.8Mb      318MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      339Kb      412Kb     1.51MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     7.30Kb     27.4KB
+     sb-gw13.cs.toronto.edu                   <=         0b       320b       762b     2.79KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       115b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       182b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       152B
+     169.254.169.123                          <=         0b         0b        41b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        12b        44B
+     meshlv02.oxds.org                        <=         0b         0b        22b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.0Mb     61.0Mb     84.8Mb
+Total receive rate:                                   339Kb      339Kb      413Kb
+Total send and receive rate:                         61.3Mb     61.4Mb     85.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     318MB     1.51MB      320MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     60.9Mb     83.3Mb      333MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      339Kb      408Kb     1.59MB
+   2 ip-172-31-16-48.ec2.internal             =>     18.0Kb     10.5Kb     7.96Kb     31.8KB
+     sb-gw13.cs.toronto.edu                   <=       832b       445b       766b     2.99KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       108b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       170b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        38b       152B
+     169.254.169.123                          <=         0b         0b        38b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        11b        44B
+     meshlv02.oxds.org                        <=         0b         0b        21b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     60.9Mb     83.3Mb
+Total receive rate:                                   342Kb      339Kb      409Kb
+Total send and receive rate:                         61.5Mb     61.3Mb     83.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     333MB     1.60MB      335MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.3Mb     60.9Mb     82.0Mb      348MB
+     ip-172-31-24-202.ec2.internal            <=      334Kb      337Kb      404Kb     1.68MB
+   2 ip-172-31-16-48.ec2.internal             =>     1.78Kb     7.36Kb     7.60Kb     32.3KB
+     sb-gw13.cs.toronto.edu                   <=     1.98Kb       656b       840b     3.49KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       101b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       160b       681B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        36b       152B
+     169.254.169.123                          <=         0b         0b        36b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        10b        44B
+     meshlv02.oxds.org                        <=         0b         0b        20b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.3Mb     60.9Mb     82.0Mb
+Total receive rate:                                   336Kb      338Kb      405Kb
+Total send and receive rate:                         60.6Mb     61.2Mb     82.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     348MB     1.68MB      350MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.5Mb     61.1Mb     80.8Mb      364MB
+     ip-172-31-24-202.ec2.internal            <=      336Kb      338Kb      400Kb     1.76MB
+   2 ip-172-31-16-48.ec2.internal             =>     20.0Kb     11.4Kb     8.28Kb     37.3KB
+     sb-gw13.cs.toronto.edu                   <=     4.23Kb     1.49Kb     1.01Kb     4.55KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        51b       228B
+     169.254.169.123                          <=       304b        61b        51b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        96b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       151b       681B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        10b        44B
+     meshlv02.oxds.org                        <=         0b         0b        19b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.5Mb     61.1Mb     80.9Mb
+Total receive rate:                                   341Kb      339Kb      401Kb
+Total send and receive rate:                         61.9Mb     61.4Mb     81.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     364MB     1.76MB      366MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.9Mb     79.8Mb      379MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      338Kb      397Kb     1.84MB
+   2 ip-172-31-16-48.ec2.internal             =>     1.03Kb     8.14Kb     7.90Kb     37.5KB
+     sb-gw13.cs.toronto.edu                   <=     2.05Kb     1.82Kb     1.06Kb     5.06KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        48b       228B
+     169.254.169.123                          <=         0b        61b        48b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        91b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       143b       681B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b         9b        44B
+     meshlv02.oxds.org                        <=         0b         0b        18b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.9Mb     79.8Mb
+Total receive rate:                                   340Kb      340Kb      398Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     80.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     379MB     1.85MB      381MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     60.8Mb     78.8Mb      394MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      338Kb      394Kb     1.92MB
+   2 ip-172-31-16-48.ec2.internal             =>     22.3Kb     12.6Kb     8.62Kb     43.1KB
+     sb-gw13.cs.toronto.edu                   <=     11.7Kb     4.16Kb     1.60Kb     7.98KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        86b       430B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b       136b       681B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b         9b        44B
+     meshlv02.oxds.org                        <=         0b         0b        17b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     60.8Mb     78.8Mb
+Total receive rate:                                   350Kb      342Kb      395Kb
+Total send and receive rate:                         60.7Mb     61.1Mb     79.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      411Mb     1.39Mb      413Mb
+Cumulative (sent/received/total):                     394MB     1.93MB      396MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     60.8Mb     61.3Mb      409MB
+     ip-172-31-24-202.ec2.internal            <=      330Kb      335Kb      339Kb     2.00MB
+   2 ip-172-31-16-48.ec2.internal             =>     35.6Kb     16.1Kb     9.12Kb     52.0KB
+     sb-gw13.cs.toronto.edu                   <=     8.42Kb     5.68Kb     1.76Kb     10.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        29b       147B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        47b       237B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b         9b        44B
+     meshlv02.oxds.org                        <=         0b         0b        17b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     60.8Mb     61.3Mb
+Total receive rate:                                   339Kb      341Kb      341Kb
+Total send and receive rate:                         61.6Mb     61.2Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     66.8Mb      378Kb     67.1Mb
+Cumulative (sent/received/total):                     409MB     2.01MB      411MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     61.0Mb     61.0Mb      425MB
+     ip-172-31-24-202.ec2.internal            <=      320Kb      333Kb      336Kb     2.08MB
+   2 ip-172-31-16-48.ec2.internal             =>     2.53Kb     16.3Kb     9.25Kb     52.6KB
+     sb-gw13.cs.toronto.edu                   <=     2.19Kb     5.72Kb     1.87Kb     10.6KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b         9b        44B
+     meshlv02.oxds.org                        <=         0b         0b        17b        84B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.1Mb     61.1Mb
+Total receive rate:                                   322Kb      338Kb      338Kb
+Total send and receive rate:                         61.7Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     425MB     2.09MB      427MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     61.0Mb      440MB
+     ip-172-31-24-202.ec2.internal            <=      316Kb      328Kb      335Kb     2.16MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     15.7Kb     9.83Kb     56.9KB
+     sb-gw13.cs.toronto.edu                   <=       624b     4.99Kb     1.85Kb     10.8KB
+   3 ip-172-31-16-48.ec2.internal             =>       240b        48b        21b       104B
+     meshlv02.oxds.org                        <=       240b        48b        29b       144B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     61.0Mb
+Total receive rate:                                   317Kb      333Kb      337Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     440MB     2.17MB      442MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     60.9Mb      455MB
+     ip-172-31-24-202.ec2.internal            <=      327Kb      326Kb      335Kb     2.24MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     15.5Kb     9.44Kb     56.9KB
+     sb-gw13.cs.toronto.edu                   <=         0b     4.58Kb     1.76Kb     10.8KB
+   3 ip-172-31-16-48.ec2.internal             =>       500b       148b        46b       229B
+     meshlv02.oxds.org                        <=       832b       214b        70b       352B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     61.0Mb
+Total receive rate:                                   328Kb      331Kb      337Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     455MB     2.25MB      457MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     61.1Mb     61.0Mb      470MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      327Kb      336Kb     2.32MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     14.5Kb     10.3Kb     61.2KB
+     sb-gw13.cs.toronto.edu                   <=       624b     2.37Kb     1.78Kb     10.9KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       148b        46b       229B
+     meshlv02.oxds.org                        <=         0b       214b        70b       352B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.1Mb     61.0Mb
+Total receive rate:                                   342Kb      329Kb      338Kb
+Total send and receive rate:                         61.7Mb     61.4Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     470MB     2.33MB      473MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.1Mb     60.9Mb      486MB
+     ip-172-31-24-202.ec2.internal            <=      333Kb      327Kb      335Kb     2.40MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     7.51Kb     10.3Kb     61.4KB
+     sb-gw13.cs.toronto.edu                   <=       208b       739b     1.78Kb     11.0KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       148b        46b       229B
+     meshlv02.oxds.org                        <=         0b       214b        70b       352B
+   4 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.1Mb     61.0Mb
+Total receive rate:                                   333Kb      328Kb      337Kb
+Total send and receive rate:                         61.5Mb     61.4Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.5Mb      350Kb     61.9Mb
+Cumulative (sent/received/total):                     486MB     2.41MB      488MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     60.9Mb     60.9Mb      501MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      332Kb      335Kb     2.49MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     10.4Kb     10.3Kb     65.7KB
+     sb-gw13.cs.toronto.edu                   <=       624b       416b     1.78Kb     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       148b        46b       229B
+     meshlv02.oxds.org                        <=         0b       214b        70b       352B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     61.0Mb     60.9Mb
+Total receive rate:                                   342Kb      332Kb      337Kb
+Total send and receive rate:                         61.2Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.5Mb      350Kb     61.9Mb
+Cumulative (sent/received/total):                     501MB     2.50MB      503MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.1Mb     60.8Mb     60.9Mb      516MB
+     ip-172-31-24-202.ec2.internal            <=      327Kb      334Kb      335Kb     2.57MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     10.3Kb     65.7KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b     1.78Kb     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       100b        46b       229B
+     meshlv02.oxds.org                        <=         0b       166b        70b       352B
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.1Mb     60.8Mb     60.9Mb
+Total receive rate:                                   327Kb      334Kb      337Kb
+Total send and receive rate:                         60.4Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.5Mb      350Kb     61.9Mb
+Cumulative (sent/received/total):                     516MB     2.58MB      519MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.0Mb     61.1Mb     60.9Mb      531MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      336Kb      335Kb     2.65MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.42Kb     65.7KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b     1.75Kb     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        46b       229B
+     meshlv02.oxds.org                        <=         0b         0b        70b       352B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        73B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       104B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.0Mb     61.1Mb     61.0Mb
+Total receive rate:                                   339Kb      337Kb      337Kb
+Total send and receive rate:                         62.3Mb     61.4Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     531MB     2.66MB      534MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.2Mb     60.9Mb     60.9Mb      546MB
+     ip-172-31-24-202.ec2.internal            <=      331Kb      334Kb      334Kb     2.73MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.3Kb     69.9KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b     1.78Kb     11.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.2Mb     60.9Mb     61.0Mb
+Total receive rate:                                   331Kb      335Kb      336Kb
+Total send and receive rate:                         60.6Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     547MB     2.74MB      549MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     60.8Mb     60.9Mb      562MB
+     ip-172-31-24-202.ec2.internal            <=      316Kb      331Kb      333Kb     2.81MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.01Kb     10.3Kb     70.2KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b     1.78Kb     11.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     60.8Mb     60.9Mb
+Total receive rate:                                   317Kb      331Kb      335Kb
+Total send and receive rate:                         61.1Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     562MB     2.82MB      565MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     60.9Mb     60.9Mb      577MB
+     ip-172-31-24-202.ec2.internal            <=      311Kb      325Kb      332Kb     2.88MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.3Kb     74.4KB
+     sb-gw13.cs.toronto.edu                   <=       416b       250b     1.75Kb     11.4KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     60.9Mb     60.9Mb
+Total receive rate:                                   311Kb      325Kb      333Kb
+Total send and receive rate:                         61.4Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     577MB     2.89MB      580MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     61.0Mb     60.9Mb      592MB
+     ip-172-31-24-202.ec2.internal            <=      312Kb      322Kb      330Kb     2.96MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     10.3Kb     74.4KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b     1.75Kb     11.4KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     61.0Mb     60.9Mb
+Total receive rate:                                   312Kb      322Kb      332Kb
+Total send and receive rate:                         61.0Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     592MB     2.97MB      595MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     60.8Mb     60.9Mb      607MB
+     ip-172-31-24-202.ec2.internal            <=      322Kb      319Kb      330Kb     3.04MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.41Kb     74.4KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b     1.73Kb     11.4KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     60.8Mb     60.9Mb
+Total receive rate:                                   322Kb      319Kb      331Kb
+Total send and receive rate:                         61.6Mb     61.1Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     608MB     3.05MB      611MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.9Mb     60.9Mb      623MB
+     ip-172-31-24-202.ec2.internal            <=      333Kb      319Kb      329Kb     3.12MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.3Kb     78.7KB
+     sb-gw13.cs.toronto.edu                   <=       624b       250b     1.76Kb     11.6KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.9Mb     60.9Mb
+Total receive rate:                                   333Kb      319Kb      331Kb
+Total send and receive rate:                         60.9Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     623MB     3.13MB      626MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     60.9Mb     60.9Mb      638MB
+     ip-172-31-24-202.ec2.internal            <=      331Kb      322Kb      329Kb     3.20MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.01Kb     9.41Kb     78.9KB
+     sb-gw13.cs.toronto.edu                   <=       208b       250b     1.73Kb     11.7KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     60.9Mb     60.9Mb
+Total receive rate:                                   331Kb      322Kb      331Kb
+Total send and receive rate:                         61.1Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     638MB     3.21MB      641MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.5Mb     61.0Mb     61.0Mb      653MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      327Kb      329Kb     3.28MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.2Kb     83.2KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b     1.66Kb     11.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.6Mb     61.0Mb     61.0Mb
+Total receive rate:                                   336Kb      327Kb      331Kb
+Total send and receive rate:                         61.9Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     653MB     3.29MB      657MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     61.0Mb     60.9Mb      668MB
+     ip-172-31-24-202.ec2.internal            <=      315Kb      327Kb      328Kb     3.36MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.18Kb     83.2KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b     1.45Kb     11.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     61.0Mb     60.9Mb
+Total receive rate:                                   315Kb      328Kb      329Kb
+Total send and receive rate:                         61.1Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     668MB     3.37MB      672MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     59.9Mb     60.7Mb     60.9Mb      683MB
+     ip-172-31-24-202.ec2.internal            <=      321Kb      327Kb      327Kb     3.44MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.13Kb     83.2KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b     1.35Kb     11.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     59.9Mb     60.7Mb     60.9Mb
+Total receive rate:                                   321Kb      327Kb      328Kb
+Total send and receive rate:                         60.2Mb     61.0Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      350Kb     62.3Mb
+Cumulative (sent/received/total):                     683MB     3.45MB      687MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     60.8Mb     60.9Mb      699MB
+     ip-172-31-24-202.ec2.internal            <=      336Kb      328Kb      327Kb     3.52MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.3Kb     7.05Kb     8.88Kb     87.5KB
+     sb-gw13.cs.toronto.edu                   <=       976b       362b       831b     12.0KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     60.8Mb     60.9Mb
+Total receive rate:                                   337Kb      328Kb      328Kb
+Total send and receive rate:                         61.2Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      342Kb     62.3Mb
+Cumulative (sent/received/total):                     699MB     3.53MB      702MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.6Mb     60.9Mb     60.9Mb      714MB
+     ip-172-31-24-202.ec2.internal            <=      344Kb      330Kb      328Kb     3.60MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     7.05Kb     7.15Kb     87.7KB
+     sb-gw13.cs.toronto.edu                   <=       208b       362b       410b     12.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.6Mb     60.9Mb     60.9Mb
+Total receive rate:                                   344Kb      331Kb      328Kb
+Total send and receive rate:                         61.9Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     714MB     3.62MB      718MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     60.8Mb     60.9Mb      729MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      331Kb      329Kb     3.69MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.05Kb     7.87Kb     80.0KB
+     sb-gw13.cs.toronto.edu                   <=       624b       362b       330b     4.96KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        37b       185B
+     meshlv02.oxds.org                        <=         0b         0b        54b       268B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     60.8Mb     60.9Mb
+Total receive rate:                                   342Kb      332Kb      329Kb
+Total send and receive rate:                         61.3Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     729MB     3.70MB      733MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     60.9Mb     60.9Mb      745MB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      337Kb      330Kb     3.77MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     7.02Kb     80.0KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       298b     4.96KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>       240b        48b        37b       245B
+     meshlv02.oxds.org                        <=       240b        48b        54b       328B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     60.9Mb     60.9Mb
+Total receive rate:                                   342Kb      337Kb      330Kb
+Total send and receive rate:                         61.6Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     745MB     3.78MB      748MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     61.0Mb     60.9Mb      760MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      340Kb      330Kb     3.85MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     7.02Kb     80.0KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       298b     4.96KB
+   3 ip-172-31-16-48.ec2.internal             =>     13.4Kb     2.72Kb       697b     3.40KB
+     meshlv02.oxds.org                        <=     5.96Kb     1.24Kb       317b     1.55KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     61.1Mb     60.9Mb
+Total receive rate:                                   341Kb      341Kb      331Kb
+Total send and receive rate:                         61.0Mb     61.4Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     760MB     3.87MB      764MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.0Mb     61.1Mb     60.9Mb      775MB
+     ip-172-31-24-202.ec2.internal            <=      329Kb      338Kb      330Kb     3.93MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     7.02Kb     84.2KB
+     sb-gw13.cs.toronto.edu                   <=       416b       250b       288b     5.06KB
+   3 ip-172-31-16-48.ec2.internal             =>     5.06Kb     3.74Kb       956b     4.67KB
+     meshlv02.oxds.org                        <=     1.20Kb     1.48Kb       379b     1.85KB
+   4 ip-172-31-16-48.ec2.internal             =>       544b       109b        27b       136B
+     ip-172-31-0-2.ec2.internal               <=       732b       146b        37b       183B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.0Mb     61.1Mb     60.9Mb
+Total receive rate:                                   331Kb      340Kb      330Kb
+Total send and receive rate:                         61.4Mb     61.4Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     775MB     3.95MB      779MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     61.0Mb     60.9Mb      790MB
+     ip-172-31-24-202.ec2.internal            <=      333Kb      336Kb      330Kb     4.01MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.01Kb     7.02Kb     84.5KB
+     sb-gw13.cs.toronto.edu                   <=       208b       250b       288b     5.11KB
+   3 ip-172-31-16-48.ec2.internal             =>       960b     3.92Kb     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=       960b     1.67Kb       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>       284b       166b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=       412b       229b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>       304b        61b        15b        76B
+     triton.ellipse.net                       <=       304b        61b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     61.0Mb     60.9Mb
+Total receive rate:                                   335Kb      338Kb      331Kb
+Total send and receive rate:                         61.3Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     790MB     4.03MB      794MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.9Mb     60.9Mb      805MB
+     ip-172-31-24-202.ec2.internal            <=      332Kb      334Kb      329Kb     4.09MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     7.02Kb     88.7KB
+     sb-gw13.cs.toronto.edu                   <=       624b       250b       288b     5.26KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b     3.92Kb     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b     1.67Kb       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b       166b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b       229b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        61b        15b        76B
+     triton.ellipse.net                       <=         0b        61b        15b        76B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.9Mb     60.9Mb
+Total receive rate:                                   332Kb      336Kb      330Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     805MB     4.11MB      810MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     60.9Mb     60.9Mb      821MB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      333Kb      330Kb     4.18MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     7.02Kb     88.7KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b       288b     5.26KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b     3.88Kb     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b     1.62Kb       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b       166b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b       229b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        61b        15b        76B
+     triton.ellipse.net                       <=         0b        61b        15b        76B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.9Mb     61.0Mb
+Total receive rate:                                   337Kb      335Kb      331Kb
+Total send and receive rate:                         61.7Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.3Mb
+Cumulative (sent/received/total):                     821MB     4.19MB      825MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.3Mb     60.8Mb     60.9Mb      836MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      333Kb      330Kb     4.26MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     10.4Kb     7.88Kb     93.0KB
+     sb-gw13.cs.toronto.edu                   <=       624b       374b       319b     5.41KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b     1.20Kb     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b       438b       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b       166b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b       229b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b        61b        15b        76B
+     triton.ellipse.net                       <=         0b        61b        15b        76B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.3Mb     60.9Mb     60.9Mb
+Total receive rate:                                   335Kb      334Kb      330Kb
+Total send and receive rate:                         60.6Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     836MB     4.27MB      840MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     60.9Mb     60.9Mb      851MB
+     ip-172-31-24-202.ec2.internal            <=      330Kb      333Kb      329Kb     4.34MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     7.02Kb     93.0KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       288b     5.41KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b       192b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b       192b       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b        57b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b        82b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+   6 ip-172-31-16-48.ec2.internal             =>         0b        61b        15b        76B
+     triton.ellipse.net                       <=         0b        61b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.9Mb     60.9Mb
+Total receive rate:                                   330Kb      334Kb      330Kb
+Total send and receive rate:                         61.7Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     851MB     4.35MB      856MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.0Mb     60.9Mb      866MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      335Kb      331Kb     4.42MB
+   2 ip-172-31-16-48.ec2.internal             =>     18.0Kb     10.4Kb     7.88Kb     97.5KB
+     sb-gw13.cs.toronto.edu                   <=       832b       416b       319b     5.62KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.0Mb     60.9Mb
+Total receive rate:                                   342Kb      335Kb      332Kb
+Total send and receive rate:                         61.4Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     866MB     4.44MB      871MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.3Mb     60.9Mb     60.9Mb      881MB
+     ip-172-31-24-202.ec2.internal            <=      316Kb      332Kb      331Kb     4.50MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     7.02Kb     97.5KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       298b     5.62KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.3Mb     60.9Mb     60.9Mb
+Total receive rate:                                   316Kb      332Kb      332Kb
+Total send and receive rate:                         60.6Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     882MB     4.51MB      886MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     60.9Mb     60.9Mb      897MB
+     ip-172-31-24-202.ec2.internal            <=      320Kb      328Kb      331Kb     4.58MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     10.4Kb     7.88Kb      102KB
+     sb-gw13.cs.toronto.edu                   <=       624b       416b       330b     5.77KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.9Mb     60.9Mb
+Total receive rate:                                   321Kb      329Kb      332Kb
+Total send and receive rate:                         61.7Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     897MB     4.59MB      901MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.2Mb     60.9Mb     60.9Mb      912MB
+     ip-172-31-24-202.ec2.internal            <=      315Kb      324Kb      331Kb     4.65MB
+   2 ip-172-31-16-48.ec2.internal             =>       768b     7.16Kb     7.91Kb      102KB
+     sb-gw13.cs.toronto.edu                   <=       560b       403b       358b     5.91KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.2Mb     60.9Mb     60.9Mb
+Total receive rate:                                   315Kb      325Kb      332Kb
+Total send and receive rate:                         60.5Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     912MB     4.67MB      917MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     60.7Mb     60.9Mb      927MB
+     ip-172-31-24-202.ec2.internal            <=      325Kb      323Kb      331Kb     4.73MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     10.6Kb     7.91Kb      106KB
+     sb-gw13.cs.toronto.edu                   <=       624b       528b       358b     6.06KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     60.7Mb     60.9Mb
+Total receive rate:                                   326Kb      324Kb      331Kb
+Total send and receive rate:                         60.8Mb     61.0Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     927MB     4.75MB      932MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.6Mb     60.9Mb      942MB
+     ip-172-31-24-202.ec2.internal            <=      317Kb      319Kb      330Kb     4.81MB
+   2 ip-172-31-16-48.ec2.internal             =>     1.03Kb     7.19Kb     7.92Kb      106KB
+     sb-gw13.cs.toronto.edu                   <=       208b       403b       358b     6.11KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.6Mb     60.9Mb
+Total receive rate:                                   317Kb      319Kb      331Kb
+Total send and receive rate:                         60.9Mb     60.9Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (s!!!!!!
+Strategy 1
+ent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     942MB     4.83MB      947MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     60.7Mb     60.8Mb      957MB
+     ip-172-31-24-202.ec2.internal            <=      313Kb      318Kb      329Kb     4.89MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     10.6Kb     7.92Kb      111KB
+     sb-gw13.cs.toronto.edu                   <=       416b       486b       347b     6.21KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     60.7Mb     60.8Mb
+Total receive rate:                                   313Kb      319Kb      330Kb
+Total send and receive rate:                         61.1Mb     61.0Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     957MB     4.90MB      962MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     43.2Mb     57.1Mb     59.9Mb      968MB
+     ip-172-31-24-202.ec2.internal            <=      220Kb      298Kb      324Kb     4.94MB
+   2 ip-172-31-16-48.ec2.internal             =>     34.4Kb     14.1Kb     9.64Kb      119KB
+     sb-gw13.cs.toronto.edu                   <=     6.09Kb     1.57Kb       659b     7.73KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     43.3Mb     57.1Mb     60.0Mb
+Total receive rate:                                   227Kb      300Kb      325Kb
+Total send and receive rate:                         43.5Mb     57.4Mb     60.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                     968MB     4.96MB      973MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     87.4Mb     62.5Mb     61.3Mb      990MB
+     ip-172-31-24-202.ec2.internal            <=      494Kb      334Kb      333Kb     5.06MB
+   2 ip-172-31-16-48.ec2.internal             =>     24.4Kb     18.8Kb     10.9Kb      125KB
+     sb-gw13.cs.toronto.edu                   <=     2.03Kb     1.87Kb       763b     8.24KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     87.5Mb     62.5Mb     61.3Mb
+Total receive rate:                                   496Kb      336Kb      334Kb
+Total send and receive rate:                         87.9Mb     62.9Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                     990MB     5.08MB      995MB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     62.5Mb     61.3Mb     0.98GB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      336Kb      333Kb     5.14MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     15.4Kb     9.99Kb      125KB
+     sb-gw13.cs.toronto.edu                   <=         0b     1.75Kb       714b     8.24KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     62.5Mb     61.3Mb
+Total receive rate:                                   338Kb      338Kb      334Kb
+Total send and receive rate:                         60.7Mb     62.8Mb     61.6Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    0.98GB     5.16MB     0.99GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.1Mb     62.8Mb     61.3Mb     1.00GB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      342Kb      333Kb     5.23MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     18.6Kb     10.8Kb      130KB
+     sb-gw13.cs.toronto.edu                   <=       624b     1.83Kb       735b     8.39KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.1Mb     62.8Mb     61.3Mb
+Total receive rate:                                   343Kb      343Kb      334Kb
+Total send and receive rate:                         62.4Mb     63.1Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.00GB     5.25MB     1.00GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.3Mb     62.7Mb     61.3Mb     1.01GB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      347Kb      333Kb     5.31MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     15.2Kb     9.95Kb      130KB
+     sb-gw13.cs.toronto.edu                   <=         0b     1.75Kb       704b     8.39KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b     0.98Kb     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       427b     2.08KB
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.3Mb     62.7Mb     61.3Mb
+Total receive rate:                                   341Kb      349Kb      334Kb
+Total send and receive rate:                         60.6Mb     63.0Mb     61.6Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.01GB     5.33MB     1.02GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.0Mb     66.4Mb     61.3Mb     1.03GB
+     ip-172-31-24-202.ec2.internal            <=      345Kb      372Kb      333Kb     5.39MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     8.47Kb     9.99Kb      130KB
+     sb-gw13.cs.toronto.edu                   <=       208b       582b       714b     8.45KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       992b     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       415b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.0Mb     66.5Mb     61.3Mb
+Total receive rate:                                   346Kb      373Kb      334Kb
+Total send and receive rate:                         62.4Mb     66.8Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.03GB     5.41MB     1.03GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     61.2Mb     61.4Mb     1.04GB
+     ip-172-31-24-202.ec2.internal            <=      344Kb      342Kb      333Kb     5.48MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.8Kb      134KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       746b     8.60KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b       307b     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b       110b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        41b       207B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        57b       286B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.2Mb     61.4Mb
+Total receive rate:                                   344Kb      342Kb      334Kb
+Total send and receive rate:                         61.7Mb     61.6Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.04GB     5.50MB     1.05GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     59.8Mb     61.1Mb     61.3Mb     1.06GB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      342Kb      334Kb     5.56MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.99Kb      134KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       725b     8.60KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        48b     4.90KB
+     meshlv02.oxds.org                        <=         0b         0b        48b     2.08KB
+   4 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+   5 ip-172-31-16-48.ec2.internal             =>         0b         0b        14b        71B
+     ip-172-31-0-2.ec2.internal               <=         0b         0b        21b       103B
+   6 ip-172-31-16-48.ec2.internal             =>         0b         0b        15b        76B
+     triton.ellipse.net                       <=         0b         0b        15b        76B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     59.8Mb     61.1Mb     61.3Mb
+Total receive rate:                                   339Kb      343Kb      335Kb
+Total send and receive rate:                         60.2Mb     61.5Mb     61.6Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.06GB     5.58MB     1.06GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.8Mb     61.1Mb     61.3Mb     1.07GB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      342Kb      334Kb     5.64MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     10.8Kb      138KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       746b     8.75KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.8Mb     61.1Mb     61.4Mb
+Total receive rate:                                   341Kb      342Kb      335Kb
+Total send and receive rate:                         62.2Mb     61.4Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.07GB     5.66MB     1.08GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.6Mb     61.3Mb     61.4Mb     1.09GB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      341Kb      335Kb     5.73MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.95Kb      138KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       714b     8.75KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.6Mb     61.3Mb     61.4Mb
+Total receive rate:                                   337Kb      342Kb      335Kb
+Total send and receive rate:                         61.9Mb     61.7Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.09GB     5.75MB     1.09GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.1Mb     61.4Mb     1.10GB
+     ip-172-31-24-202.ec2.internal            <=      322Kb      337Kb      334Kb     5.81MB
+   2 ip-172-31-16-48.ec2.internal             =>     18.2Kb     10.5Kb     10.9Kb      143KB
+     sb-gw13.cs.toronto.edu                   <=     1.16Kb       486b       774b     9.04KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.1Mb     61.4Mb
+Total receive rate:                                   323Kb      337Kb      335Kb
+Total send and receive rate:                         61.4Mb     61.5Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.10GB     5.83MB     1.11GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.0Mb     61.1Mb     61.4Mb     1.12GB
+     ip-172-31-24-202.ec2.internal            <=      332Kb      334Kb      334Kb     5.89MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     10.0Kb      143KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       742b     9.04KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.0Mb     61.1Mb     61.4Mb
+Total receive rate:                                   332Kb      335Kb      334Kb
+Total send and receive rate:                         61.3Mb     61.4Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.12GB     5.91MB     1.12GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     61.2Mb     61.4Mb     1.13GB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      334Kb      334Kb     5.97MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     10.0Kb      143KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       742b     9.04KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     61.2Mb     61.4Mb
+Total receive rate:                                   339Kb      334Kb      335Kb
+Total send and receive rate:                         61.0Mb     61.6Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.13GB     5.99MB     1.14GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.1Mb     61.4Mb     1.15GB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      334Kb      334Kb     6.05MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.05Kb     9.96Kb      147KB
+     sb-gw13.cs.toronto.edu                   <=       624b       362b       732b     9.19KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.1Mb     61.4Mb
+Total receive rate:                                   341Kb      334Kb      335Kb
+Total send and receive rate:                         61.5Mb     61.4Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.15GB     6.07MB     1.15GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     61.0Mb     61.4Mb     1.16GB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      335Kb      335Kb     6.14MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.05Kb     9.96Kb      147KB
+     sb-gw13.cs.toronto.edu                   <=         0b       362b       732b     9.19KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.0Mb     61.4Mb
+Total receive rate:                                   340Kb      335Kb      336Kb
+Total send and receive rate:                         61.7Mb     61.4Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.16GB     6.16MB     1.17GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     60.9Mb     61.4Mb     1.15GB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      338Kb      336Kb     6.06MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     3.59Kb     9.15Kb      148KB
+     sb-gw13.cs.toronto.edu                   <=       208b       166b       711b     9.24KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     60.9Mb     61.4Mb
+Total receive rate:                                   337Kb      338Kb      337Kb
+Total send and receive rate:                         60.8Mb     61.2Mb     61.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.18GB     6.24MB     1.18GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     61.0Mb     61.4Mb     1.01GB
+     ip-172-31-24-202.ec2.internal            <=      343Kb      340Kb      338Kb     5.38MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     9.96Kb      152KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       714b     9.26KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     61.0Mb     61.5Mb
+Total receive rate:                                   344Kb      340Kb      338Kb
+Total send and receive rate:                         61.7Mb     61.3Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.19GB     6.32MB     1.20GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     60.9Mb     61.4Mb      780MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      340Kb      338Kb     4.06MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     9.11Kb      152KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       683b     9.26KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     60.9Mb     61.4Mb
+Total receive rate:                                   341Kb      341Kb      339Kb
+Total send and receive rate:                         60.7Mb     61.3Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.21GB     6.41MB     1.21GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     61.0Mb     61.5Mb      796MB
+     ip-172-31-24-202.ec2.internal            <=      343Kb      341Kb      340Kb     4.14MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.59Kb     9.06Kb      152KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       673b     9.26KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.0Mb     61.5Mb
+Total receive rate:                                   343Kb      341Kb      340Kb
+Total send and receive rate:                         61.7Mb     61.3Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.22GB     6.49MB     1.23GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     60.8Mb     61.5Mb      720MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      340Kb      341Kb     3.77MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     9.06Kb      156KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       683b     9.41KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     60.9Mb     61.5Mb
+Total receive rate:                                   339Kb      341Kb      342Kb
+Total send and receive rate:                         61.1Mb     61.2Mb     61.8Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.24GB     6.57MB     1.24GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     61.0Mb     62.4Mb      312MB
+     ip-172-31-24-202.ec2.internal            <=      329Kb      339Kb      346Kb     1.69MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     7.01Kb     7.38Kb      156KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       382b     9.46KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     61.0Mb     62.4Mb
+Total receive rate:                                   329Kb      339Kb      347Kb
+Total send and receive rate:                         61.6Mb     61.4Mb     62.7Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     87.5Mb      496Kb     87.9Mb
+Cumulative (sent/received/total):                    1.25GB     6.65MB     1.26GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.6Mb     61.1Mb     61.1Mb      327MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      337Kb      338Kb     1.77MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.59Kb     6.16Kb      156KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       278b     9.46KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.6Mb     61.1Mb     61.1Mb
+Total receive rate:                                   335Kb      338Kb      339Kb
+Total send and receive rate:                         62.0Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.1Mb      346Kb     62.4Mb
+Cumulative (sent/received/total):                    1.27GB     6.73MB     1.27GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.2Mb     61.1Mb      343MB
+     ip-172-31-24-202.ec2.internal            <=      344Kb      338Kb      339Kb     1.86MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     7.02Kb      160KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       309b     9.61KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.2Mb     61.1Mb
+Total receive rate:                                   344Kb      338Kb      339Kb
+Total send and receive rate:                         61.5Mb     61.6Mb     61.5Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.1Mb      346Kb     62.4Mb
+Cumulative (sent/received/total):                    1.28GB     6.82MB     1.29GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.2Mb     61.0Mb     61.0Mb      358MB
+     ip-172-31-24-202.ec2.internal            <=      331Kb      336Kb      338Kb     1.94MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      160KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       278b     9.61KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.2Mb     61.0Mb     61.0Mb
+Total receive rate:                                   331Kb      336Kb      338Kb
+Total send and receive rate:                         60.6Mb     61.3Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      346Kb     62.4Mb
+Cumulative (sent/received/total):                    1.29GB     6.90MB     1.30GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.4Mb     61.3Mb     61.1Mb      373MB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      335Kb      338Kb     2.02MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     7.02Kb      165KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       309b     9.77KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.4Mb     61.3Mb     61.1Mb
+Total receive rate:                                   338Kb      336Kb      338Kb
+Total send and receive rate:                         62.7Mb     61.7Mb     61.5Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      346Kb     62.7Mb
+Cumulative (sent/received/total):                    1.31GB     6.98MB     1.32GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     61.2Mb     61.1Mb      388MB
+     ip-172-31-24-202.ec2.internal            <=      326Kb      335Kb      337Kb     2.10MB
+   2 ip-172-31-16-48.ec2.internal             =>       896b     7.01Kb     7.02Kb      165KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       309b     9.82KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     61.2Mb     61.1Mb
+Total receive rate:                                   326Kb      335Kb      337Kb
+Total send and receive rate:                         60.9Mb     61.5Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.32GB     7.06MB     1.33GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.8Mb     61.2Mb     61.1Mb      404MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      335Kb      337Kb     2.18MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      165KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       278b     9.82KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.8Mb     61.2Mb     61.1Mb
+Total receive rate:                                   339Kb      336Kb      337Kb
+Total send and receive rate:                         62.2Mb     61.6Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.34GB     7.14MB     1.35GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     61.2Mb     61.1Mb      419MB
+     ip-172-31-24-202.ec2.internal            <=      336Kb      334Kb      337Kb     2.27MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     7.02Kb      169KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       309b     9.97KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     61.2Mb     61.2Mb
+Total receive rate:                                   337Kb      334Kb      337Kb
+Total send and receive rate:                         61.4Mb     61.6Mb     61.5Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.35GB     7.23MB     1.36GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     61.3Mb     61.1Mb      434MB
+     ip-172-31-24-202.ec2.internal            <=      324Kb      332Kb      336Kb     2.35MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      169KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       278b     9.97KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     61.3Mb     61.1Mb
+Total receive rate:                                   324Kb      333Kb      336Kb
+Total send and receive rate:                         61.2Mb     61.7Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.37GB     7.31MB     1.38GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     61.1Mb     61.1Mb      450MB
+     ip-172-31-24-202.ec2.internal            <=      329Kb      331Kb      335Kb     2.43MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.59Kb     6.16Kb      169KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       278b     9.97KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.1Mb     61.1Mb
+Total receive rate:                                   329Kb      331Kb      336Kb
+Total send and receive rate:                         61.7Mb     61.5Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.38GB     7.39MB     1.39GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.1Mb     61.0Mb     61.0Mb      465MB
+     ip-172-31-24-202.ec2.internal            <=      316Kb      329Kb      335Kb     2.50MB
+   2 ip-172-31-16-48.ec2.internal             =>     18.0Kb     7.01Kb     6.15Kb      174KB
+     sb-gw13.cs.toronto.edu                   <=       832b       291b       260b     10.2KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.1Mb     61.1Mb     61.0Mb
+Total receive rate:                                   317Kb      329Kb      335Kb
+Total send and receive rate:                         60.4Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.40GB     7.46MB     1.41GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.3Mb     61.1Mb     61.1Mb      480MB
+     ip-172-31-24-202.ec2.internal            <=      336Kb      329Kb      335Kb     2.59MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.15Kb      174KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       260b     10.2KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.3Mb     61.1Mb     61.1Mb
+Total receive rate:                                   336Kb      329Kb      336Kb
+Total send and receive rate:                         62.6Mb     61.5Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.41GB     7.55MB     1.42GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     61.0Mb     61.1Mb      495MB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      329Kb      335Kb     2.67MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.59Kb     6.15Kb      174KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       260b     10.2KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     61.0Mb     61.1Mb
+Total receive rate:                                   337Kb      329Kb      335Kb
+Total send and receive rate:                         60.9Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.43GB     7.63MB     1.44GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     61.0Mb     61.1Mb      511MB
+     ip-172-31-24-202.ec2.internal            <=      324Kb      329Kb      334Kb     2.75MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.15Kb      178KB
+     sb-gw13.cs.toronto.edu                   <=       416b       250b       250b     10.3KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     61.0Mb     61.1Mb
+Total receive rate:                                   325Kb      329Kb      335Kb
+Total send and receive rate:                         61.0Mb     61.3Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.44GB     7.71MB     1.45GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     61.0Mb      526MB
+     ip-172-31-24-202.ec2.internal            <=      322Kb      327Kb      333Kb     2.83MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.15Kb      178KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b       250b     10.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     61.1Mb
+Total receive rate:                                   322Kb      327Kb      334Kb
+Total send and receive rate:                         61.1Mb     61.2Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.46GB     7.79MB     1.47GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.0Mb     61.1Mb     61.1Mb      541MB
+     ip-172-31-24-202.ec2.internal            <=      323Kb      329Kb      333Kb     2.90MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     3.60Kb     6.15Kb      178KB
+     sb-gw13.cs.toronto.edu                   <=       208b       125b       250b     10.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.0Mb     61.1Mb     61.1Mb
+Total receive rate:                                   323Kb      329Kb      333Kb
+Total send and receive rate:                         61.3Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.47GB     7.86MB     1.48GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     60.8Mb     61.1Mb      556MB
+     ip-172-31-24-202.ec2.internal            <=      323Kb      326Kb      332Kb     2.98MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.15Kb      182KB
+     sb-gw13.cs.toronto.edu                   <=       624b       250b       250b     10.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.3Mb     60.9Mb     61.1Mb
+Total receive rate:                                   324Kb      326Kb      332Kb
+Total send and receive rate:                         61.6Mb     61.2Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.49GB     7.94MB     1.50GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     60.9Mb     61.1Mb      571MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      326Kb      331Kb     3.06MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.15Kb      182KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b       250b     10.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     60.9Mb     61.1Mb
+Total receive rate:                                   335Kb      326Kb      332Kb
+Total send and receive rate:                         60.9Mb     61.2Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.50GB     8.03MB     1.51GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     61.1Mb      587MB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      329Kb      331Kb     3.15MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.60Kb     6.15Kb      182KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       250b     10.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     61.1Mb
+Total receive rate:                                   342Kb      329Kb      332Kb
+Total send and receive rate:                         61.1Mb     61.2Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.52GB     8.11MB     1.53GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     62.0Mb     61.1Mb     61.1Mb      602MB
+     ip-172-31-24-202.ec2.internal            <=      341Kb      333Kb      332Kb     3.23MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.15Kb      187KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     10.6KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     62.0Mb     61.1Mb     61.1Mb
+Total receive rate:                                   342Kb      333Kb      332Kb
+Total send and receive rate:                         62.4Mb     61.4Mb     61.4Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.53GB     8.19MB     1.54GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     59.1Mb     60.7Mb     61.0Mb      617MB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      336Kb      332Kb     3.31MB
+   2 ip-172-31-16-48.ec2.internal             =>     1.03Kb     7.04Kb     6.16Kb      187KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       250b     10.7KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     59.1Mb     60.7Mb     61.0Mb
+Total receive rate:                                   340Kb      336Kb      332Kb
+Total send and receive rate:                         59.4Mb     61.1Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.55GB     8.28MB     1.56GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.1Mb     60.7Mb     61.0Mb      632MB
+     ip-172-31-24-202.ec2.internal            <=      343Kb      340Kb      332Kb     3.40MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.62Kb     6.16Kb      187KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       250b     10.7KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.1Mb     60.7Mb     61.0Mb
+Total receive rate:                                   343Kb      340Kb      333Kb
+Total send and receive rate:                         61.4Mb     61.0Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      344Kb     62.7Mb
+Cumulative (sent/received/total):                    1.56GB     8.36MB     1.57GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     60.8Mb     61.0Mb      647MB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      342Kb      332Kb     3.48MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.04Kb     6.16Kb      191KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     10.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.8Mb     61.0Mb
+Total receive rate:                                   342Kb      342Kb      333Kb
+Total send and receive rate:                         61.7Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      343Kb     62.7Mb
+Cumulative (sent/received/total):                    1.58GB     8.44MB     1.59GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.8Mb     61.0Mb      663MB
+     ip-172-31-24-202.ec2.internal            <=      342Kb      341Kb      333Kb     3.56MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.04Kb     6.16Kb      191KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       250b     10.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.8Mb     61.0Mb
+Total receive rate:                                   342Kb      342Kb      333Kb
+Total send and receive rate:                         61.1Mb     61.2Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.4Mb      343Kb     62.7Mb
+Cumulative (sent/received/total):                    1.59GB     8.53MB     1.60GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     60.7Mb     61.0Mb      678MB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      341Kb      333Kb     3.65MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.04Kb     6.16Kb      195KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     11.0KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.7Mb     61.0Mb
+Total receive rate:                                   340Kb      342Kb      333Kb
+Total send and receive rate:                         61.8Mb     61.1Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.61GB     8.61MB     1.62GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     61.0Mb     61.0Mb      693MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      341Kb      334Kb     3.73MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.01Kb     6.16Kb      196KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       250b     11.0KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     61.0Mb     61.0Mb
+Total receive rate:                                   338Kb      341Kb      334Kb
+Total send and receive rate:                         60.7Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.62GB     8.69MB     1.63GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     60.9Mb     60.9Mb      708MB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      340Kb      334Kb     3.81MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      196KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       250b     11.0KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     60.9Mb     60.9Mb
+Total receive rate:                                   340Kb      341Kb      334Kb
+Total send and receive rate:                         60.8Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.64GB     8.77MB     1.65GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.6Mb     60.9Mb     60.9Mb      724MB
+     ip-172-31-24-202.ec2.internal            <=      339Kb      340Kb      334Kb     3.90MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.16Kb      200KB
+     sb-gw13.cs.toronto.edu                   <=       416b       250b       239b     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.6Mb     60.9Mb     60.9Mb
+Total receive rate:                                   340Kb      340Kb      334Kb
+Total send and receive rate:                         61.9Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.65GB     8.86MB     1.66GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     60.9Mb      739MB
+     ip-172-31-24-202.ec2.internal            <=      325Kb      337Kb      334Kb     3.98MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      200KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b       239b     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     60.9Mb
+Total receive rate:                                   325Kb      337Kb      334Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.67GB     8.94MB     1.68GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.8Mb     60.9Mb      754MB
+     ip-172-31-24-202.ec2.internal            <=      326Kb      334Kb      334Kb     4.06MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.60Kb     6.16Kb      200KB
+     sb-gw13.cs.toronto.edu                   <=         0b       125b       239b     11.1KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.8Mb     60.9Mb
+Total receive rate:                                   326Kb      334Kb      334Kb
+Total send and receive rate:                         61.0Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.68GB     9.02MB     1.69GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.3Mb     61.0Mb     60.9Mb      769MB
+     ip-172-31-24-202.ec2.internal            <=      321Kb      330Kb      334Kb     4.13MB
+   2 ip-172-31-16-48.ec2.internal             =>     18.0Kb     7.01Kb     6.16Kb      204KB
+     sb-gw13.cs.toronto.edu                   <=       832b       250b       239b     11.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     61.0Mb     60.9Mb
+Total receive rate:                                   322Kb      331Kb      334Kb
+Total send and receive rate:                         61.7Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.3Mb      343Kb     62.6Mb
+Cumulative (sent/received/total):                    1.70GB     9.10MB     1.71GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     61.0Mb     60.8Mb      784MB
+     ip-172-31-24-202.ec2.internal            <=      334Kb      329Kb      334Kb     4.22MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      204KB
+     sb-gw13.cs.toronto.edu                   <=         0b       250b       239b     11.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     61.0Mb     60.8Mb
+Total receive rate:                                   334Kb      329Kb      334Kb
+Total send and receive rate:                         60.8Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.71GB     9.18MB     1.72GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.5Mb     60.8Mb     60.8Mb      800MB
+     ip-172-31-24-202.ec2.internal            <=      340Kb      329Kb      334Kb     4.30MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.60Kb     6.16Kb      204KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       239b     11.3KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.5Mb     60.8Mb     60.8Mb
+Total receive rate:                                   340Kb      329Kb      334Kb
+Total send and receive rate:                         60.9Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.73GB     9.26MB     1.74GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.4Mb     60.9Mb     60.9Mb      815MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      332Kb      335Kb     4.38MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.16Kb      209KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     11.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.4Mb     60.9Mb     60.9Mb
+Total receive rate:                                   339Kb      332Kb      335Kb
+Total send and receive rate:                         61.7Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.74GB     9.34MB     1.75GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     60.9Mb     60.9Mb      830MB
+     ip-172-31-24-202.ec2.internal            <=      337Kb      334Kb      335Kb     4.46MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      209KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       250b     11.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     60.9Mb     60.9Mb
+Total receive rate:                                   337Kb      334Kb      336Kb
+Total send and receive rate:                         61.2Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.76GB     9.42MB     1.77GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.8Mb     60.8Mb     60.9Mb      845MB
+     ip-172-31-24-202.ec2.internal            <=      320Kb      334Kb      335Kb     4.54MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     3.60Kb     6.16Kb      209KB
+     sb-gw13.cs.toronto.edu                   <=       208b       166b       250b     11.5KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.8Mb     60.8Mb     60.9Mb
+Total receive rate:                                   320Kb      334Kb      336Kb
+Total send and receive rate:                         61.1Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.77GB     9.50MB     1.78GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.2Mb     61.0Mb     60.9Mb      861MB
+     ip-172-31-24-202.ec2.internal            <=      325Kb      332Kb      335Kb     4.62MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.16Kb      213KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     11.7KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.2Mb     61.0Mb     60.9Mb
+Total receive rate:                                   325Kb      332Kb      336Kb
+Total send and receive rate:                         61.5Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.79GB     9.58MB     1.80GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.6Mb     61.0Mb     60.9Mb      876MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      332Kb      336Kb     4.70MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      213KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       250b     11.7KB
+   3 ip-172-31-16-48.ec2.internal             =>       304b        61b        46b       228B
+     169.254.169.123                          <=       304b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.6Mb     61.0Mb     60.9Mb
+Total receive rate:                                   338Kb      332Kb      336Kb
+Total send and receive rate:                         60.9Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      343Kb     62.4Mb
+Cumulative (sent/received/total):                    1.80GB     9.66MB     1.81GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.9Mb     60.9Mb     60.9Mb      891MB
+     ip-172-31-24-202.ec2.internal            <=      344Kb      333Kb      336Kb     4.79MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.60Kb     6.16Kb      213KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       250b     11.7KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.9Mb     60.9Mb     60.9Mb
+Total receive rate:                                   344Kb      333Kb      336Kb
+Total send and receive rate:                         61.2Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     62.0Mb      344Kb     62.4Mb
+Cumulative (sent/received/total):                    1.82GB     9.75MB     1.83GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.0Mb     60.9Mb     60.8Mb      906MB
+     ip-172-31-24-202.ec2.internal            <=      335Kb      332Kb      335Kb     4.87MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.16Kb      217KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     11.8KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.0Mb     60.9Mb     60.8Mb
+Total receive rate:                                   335Kb      332Kb      336Kb
+Total send and receive rate:                         61.3Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                    1.83GB     9.83MB     1.84GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.7Mb     60.9Mb     60.9Mb      619MB
+     ip-172-31-24-202.ec2.internal            <=      321Kb      332Kb      334Kb     3.32MB
+   2 ip-172-31-16-48.ec2.internal             =>       928b     7.01Kb     6.16Kb      218KB
+     sb-gw13.cs.toronto.edu                   <=       208b       291b       250b     11.9KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        46b       228B
+     169.254.169.123                          <=         0b        61b        46b       228B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.7Mb     60.9Mb     60.9Mb
+Total receive rate:                                   321Kb      333Kb      335Kb
+Total send and receive rate:                         61.0Mb     61.2Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.6Mb      344Kb     61.9Mb
+Cumulative (sent/received/total):                    1.85GB     9.91MB     1.86GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     61.7Mb     61.0Mb     60.9Mb      634MB
+     ip-172-31-24-202.ec2.internal            <=      326Kb      333Kb      333Kb     3.40MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     3.60Kb     6.16Kb      218KB
+     sb-gw13.cs.toronto.edu                   <=         0b       166b       250b     11.9KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b        61b        30b       152B
+     169.254.169.123                          <=         0b        61b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     61.7Mb     61.0Mb     60.9Mb
+Total receive rate:                                   326Kb      333Kb      334Kb
+Total send and receive rate:                         62.0Mb     61.3Mb     61.3Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.7Mb      344Kb     62.0Mb
+Cumulative (sent/received/total):                    1.86GB     9.99MB     1.87GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.4Mb     60.9Mb     60.9Mb      649MB
+     ip-172-31-24-202.ec2.internal            <=      328Kb      331Kb      333Kb     3.48MB
+   2 ip-172-31-16-48.ec2.internal             =>     17.1Kb     7.01Kb     6.16Kb      222KB
+     sb-gw13.cs.toronto.edu                   <=       624b       291b       250b     12.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.4Mb     61.0Mb     60.9Mb
+Total receive rate:                                   329Kb      331Kb      333Kb
+Total send and receive rate:                         60.8Mb     61.3Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.7Mb      344Kb     62.0Mb
+Cumulative (sent/received/total):                    1.88GB     10.1MB     1.89GB
+============================================================================================
+
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 ip-172-31-16-48.ec2.internal             =>     60.0Mb     60.8Mb     60.9Mb      664MB
+     ip-172-31-24-202.ec2.internal            <=      338Kb      330Kb      333Kb     3.57MB
+   2 ip-172-31-16-48.ec2.internal             =>         0b     7.01Kb     6.16Kb      222KB
+     sb-gw13.cs.toronto.edu                   <=         0b       291b       250b     12.1KB
+   3 ip-172-31-16-48.ec2.internal             =>         0b         0b        30b       152B
+     169.254.169.123                          <=         0b         0b        30b       152B
+--------------------------------------------------------------------------------------------
+Total send rate:                                     60.0Mb     60.8Mb     60.9Mb
+Total receive rate:                                   338Kb      330Kb      333Kb
+Total send and receive rate:                         60.3Mb     61.1Mb     61.2Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     61.7Mb      344Kb     62.0Mb
+Cu

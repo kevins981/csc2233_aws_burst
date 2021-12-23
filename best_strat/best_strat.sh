@@ -1,5 +1,5 @@
 #!/bin/bash          
-LOGNAME="best_strat_1G_strat3f"
+LOGNAME="best_strat_3c"
 HOST_ADDR="172.31.24.202"
 echo "Start"  > $LOGNAME
 
@@ -113,17 +113,17 @@ echo "Start"  > $LOGNAME
 #iperf3 -c $HOST_ADDR -i 0.1 --bytes 250M --bitrate 500M >> $LOGNAME
 #
 
-#echo "============================================="  >> $LOGNAME
-#echo "Using up all credits to prepare for strategy."  >> $LOGNAME
-#iperf3 -c $HOST_ADDR -i 10 -t 80 >> $LOGNAME
-#
-#echo "===="  >> $LOGNAME
-#echo "Strategy 3c: periodically send and wait. Break 1G into 10 chunks, wait 10s in between"  >> $LOGNAME
-#for i in $(seq 1 10); do
-#	sleep 10
-#	iperf3 -c $HOST_ADDR -i 0.1 --bytes 100M >> $LOGNAME
-#done
-#
+echo "============================================="  >> $LOGNAME
+echo "Using up all credits to prepare for strategy."  >> $LOGNAME
+iperf3 -c $HOST_ADDR -i 10 -t 60 >> $LOGNAME
+
+echo "===="  >> $LOGNAME
+echo "Strategy 3c: periodically send and wait. Break 1G into 10 chunks, wait 10s in between"  >> $LOGNAME
+for i in $(seq 1 10); do
+	sleep 10
+	iperf3 -c $HOST_ADDR -i 0.1 --bytes 100M >> $LOGNAME
+done
+
 #echo "============================================="  >> $LOGNAME
 #echo "Using up all credits to prepare for strategy."  >> $LOGNAME
 #iperf3 -c $HOST_ADDR -i 10 -t 60 >> $LOGNAME
@@ -134,7 +134,7 @@ echo "Start"  > $LOGNAME
 #	sleep 1
 #	iperf3 -c $HOST_ADDR -i 0.1 --bytes 20M >> $LOGNAME
 #done
-#
+
 #echo "============================================="  >> $LOGNAME
 #echo "Using up all credits to prepare for strategy."  >> $LOGNAME
 #iperf3 -c $HOST_ADDR -i 10 -t 60 >> $LOGNAME
@@ -146,13 +146,13 @@ echo "Start"  > $LOGNAME
 #	iperf3 -c $HOST_ADDR -i 0.1 --bytes 10M >> $LOGNAME
 #done
 
-echo "============================================="  >> $LOGNAME
-echo "Using up all credits to prepare for strategy."  >> $LOGNAME
-iperf3 -c $HOST_ADDR -i 10 -t 60 >> $LOGNAME
-
-echo "===="  >> $LOGNAME
-echo "Strategy 3f: periodically send and wait. Break 1G into 1000 chunks, wait 0.05s in between"  >> $LOGNAME
-for i in $(seq 1 1000); do
-	sleep 0.05
-	iperf3 -c $HOST_ADDR -i 0.1 --bytes 1M >> $LOGNAME
-done
+#echo "============================================="  >> $LOGNAME
+#echo "Using up all credits to prepare for strategy."  >> $LOGNAME
+#iperf3 -c $HOST_ADDR -i 10 -t 60 >> $LOGNAME
+#
+#echo "===="  >> $LOGNAME
+#echo "Strategy 3f: periodically send and wait. Break 1G into 1000 chunks, wait 0.05s in between"  >> $LOGNAME
+#for i in $(seq 1 1000); do
+#	sleep 0.05
+#	iperf3 -c $HOST_ADDR -i 0.1 --bytes 1M >> $LOGNAME
+#done

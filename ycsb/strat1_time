@@ -1,0 +1,40 @@
+2021-12-20 02:00:47:784 10 sec: 797 operations; 79.69 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=386865.07]
+2021-12-20 02:00:57:784 20 sec: 1583 operations; 78.6 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=403811.75]
+2021-12-20 02:01:07:784 30 sec: 2376 operations; 79.3 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=406072.93]
+2021-12-20 02:01:17:784 40 sec: 3165 operations; 78.9 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=405889.29]
+2021-12-20 02:01:27:784 50 sec: 3949 operations; 78.4 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=405017.11]
+2021-12-20 02:01:37:784 60 sec: 4738 operations; 78.9 current ops/sec; est completion in 1 minute [INSERT AverageLatency(us)=405501.03]
+2021-12-20 02:01:47:784 70 sec: 5534 operations; 79.6 current ops/sec; est completion in 57 seconds [INSERT AverageLatency(us)=405600.44]
+2021-12-20 02:01:57:784 80 sec: 6329 operations; 79.5 current ops/sec; est completion in 47 seconds [CLEANUP AverageLatency(us)=123.2] [INSERT AverageLatency(us)=401994.31]
+2021-12-20 02:02:07:784 90 sec: 7113 operations; 78.4 current ops/sec; est completion in 37 seconds  [INSERT AverageLatency(us)=278880.39]
+2021-12-20 02:02:17:784 100 sec: 7904 operations; 79.1 current ops/sec; est completion in 27 seconds  [INSERT AverageLatency(us)=278697.15]
+2021-12-20 02:02:27:784 110 sec: 8695 operations; 79.1 current ops/sec; est completion in 17 seconds  [INSERT AverageLatency(us)=278673.38]
+2021-12-20 02:02:37:784 120 sec: 9486 operations; 79.1 current ops/sec; est completion in 7 second  [INSERT AverageLatency(us)=278686.36]
+2021-12-20 02:02:44:141 126 sec: 10000 operations; 80.87 current ops/sec; [CLEANUP AverageLatency(us)=43.59] [INSERT AverageLatency(us)=269454.11]
+[OVERALL], RunTime(ms), 126358
+[OVERALL], Throughput(ops/sec), 79.14022064293515
+[TOTAL_GCS_Copy], Count, 1020
+[TOTAL_GC_TIME_Copy], Time(ms), 369
+[TOTAL_GC_TIME_%_Copy], Time(%), 0.2920274141724307
+[TOTAL_GCS_MarkSweepCompact], Count, 5
+[TOTAL_GC_TIME_MarkSweepCompact], Time(ms), 34
+[TOTAL_GC_TIME_%_MarkSweepCompact], Time(%), 0.026907675018597952
+[TOTAL_GCs], Count, 1025
+[TOTAL_GC_TIME], Time(ms), 403
+[TOTAL_GC_TIME_%], Time(%), 0.31893508919102864
+[CLEANUP], Operations, 32
+[CLEANUP], AverageLatency(us), 68.46875
+[CLEANUP], LatencyVariance(us), 15696.3740234375
+[CLEANUP], MinLatency(us), 24
+[CLEANUP], MaxLatency(us), 764
+[CLEANUP], 95thPercentileLatency(us), 0
+[CLEANUP], 99thPercentileLatency(us), 0
+[INSERT], Operations, 10000
+[INSERT], AverageLatency(us), 356636.9766
+[INSERT], LatencyVariance(us), 1.8542289188488647E10
+[INSERT], MinLatency(us), 6142
+[INSERT], MaxLatency(us), 1195497
+[INSERT], 95thPercentileLatency(us), 564000
+[INSERT], 99thPercentileLatency(us), 575000
+[INSERT], Return=OK, 10000
+

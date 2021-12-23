@@ -1,4 +1,4 @@
-LOG="bw_exp_max_2"
+LOG="bw_exp_3G"
 
 cat $LOG | tr -s " " | cut -d" " -f3 | cut -d"-" -f1 > ${LOG}_cut1
 
